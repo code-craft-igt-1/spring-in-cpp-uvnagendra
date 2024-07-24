@@ -1,4 +1,5 @@
 #include "stats.h"
+#include <limits>
 
 #include <algorithm>
 #include <numeric>
